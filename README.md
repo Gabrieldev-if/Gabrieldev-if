@@ -1,7 +1,7 @@
- 👋 Olá! Eu sou Gabriel D'Silva
- 🌱 Gestão da tecnologia da Informação
- ⚡ Estudo complementar: Python
- 😄 Pronouns: ele/dele
+ 👋 Olá! Eu sou Gabriel D'Silva<br>
+ 🌱 Gestão da tecnologia da Informação<br>
+ ⚡ Estudo complementar: Python<br>
+ 😄 Pronouns: ele/dele<br>
 
 <!---Estatistica do github--->
 <div>
