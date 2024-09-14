@@ -6,8 +6,8 @@
 <!---Estatistica do github--->
 <div>
   <a href="https://github.com/RafaBallerini">
-  <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabrieldev-if&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabrieldev-if&layout=compact&langs_count=8&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabrieldev-if&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabrieldev-if&layout=compact&langs_count=8&theme=dark"/>
 <div>
 
 <!---Icons do github--->
